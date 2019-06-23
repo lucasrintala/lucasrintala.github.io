@@ -21,6 +21,6 @@ Mini project built on a Jekyll template: Indigo Minimalist Jekyll Template - [De
 
 ​	
 
-### License
+## License
 
 [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
